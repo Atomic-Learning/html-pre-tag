@@ -1,22 +1,17 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "HTML: The Pre Tag",
+    "slug": "html-pre-tag",
+    "description": "Learn about the HTML <pre> tag and how to use it to display preformatted text.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "html"
     ],
     "duration": 0,
     "prerequisites": [
-        "",
-        ""
+        "html-tags"
     ],
     "related": [
-        "",
-        ""
     ]
 }
