@@ -10,7 +10,8 @@
     ],
     "duration": 3,
     "prerequisites": [
-        "html-tags"
+        "html-tags",
+        "html-strong-tag"
     ],
     "related": [
     ]
